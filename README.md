@@ -6,7 +6,7 @@ I believe I did particularly well at organizing the software design document and
 ### How the Design Document Helped With Development
 The design document was helpful because it provided a blueprint for the application's structure and functionality before coding began.  It allowed me to identify the system's requirements, consider different design approaches, and think through potential challenges.  Having this information documented made it easier to understand how the different components of the application would interact.  It also helped reduce confusion by establishing a clear direction for the development process.
 ### What I Would Revise
-
+If I could revise one part of my work, I would expand the discussion of scalability and security.  I would provide more detail about how the application could handle an increasing number of users while protecting player information and maintaining reliable performance.  I would also include additional diagrams or examples to illustrate how the system components communicate with one another.  These improvements would make the document more detailed and useful for developers who might work on the project in the future.
 ### Interpreting the User's Needs
-
+When designing the software, I considered the client's need for a game that could support multiple players and teams while maintaining consistency across different platforms.  Understanding these requirements was important because the software needed to meet the client's expectations and provide a positive user experience.  Considering the user's needs also helped guide decisions about the application's architecture, functionality, and compatibility.  User-centered design is important because software can be technically functional but still fail if it does not solve the problems it was created to address.
 ### My Approach to Software Design
